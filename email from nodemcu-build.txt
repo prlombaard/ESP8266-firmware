@@ -1,0 +1,5 @@
+Your NodeMCU custom build finished successfully. You may now download the firmware:
+- float: http://nodemcu-build.com/builds/nodemcu-master-7-modules-2017-01-14-22-44-08-float.bin
+- integer: http://nodemcu-build.com/builds/nodemcu-master-7-modules-2017-01-14-22-44-08-integer.bin
+
+This was built against the master branch and includes the following modules: file, gpio, net, node, tmr, uart, wifi.
